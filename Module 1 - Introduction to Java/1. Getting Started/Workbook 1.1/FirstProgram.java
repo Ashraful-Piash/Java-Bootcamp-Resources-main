@@ -8,6 +8,5 @@ public class FirstProgram{
         System.out.println("My dog ate my Java.");
         System.out.println("ok");
         System.out.println("ok");
-
     }
 }
